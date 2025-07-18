@@ -1,0 +1,3 @@
+mkdir marketing
+cd marketing
+echo "Marketing strategy files go here"
